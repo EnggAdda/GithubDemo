@@ -49,6 +49,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>github-demo</finalName>
 	</build>
 
 </project>
