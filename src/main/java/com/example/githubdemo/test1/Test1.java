@@ -12,4 +12,8 @@ public class Test1 {
     public static void  addTest2(){
         System.out.println("commit1 ");
     }
+
+    public static void  addTest3(){
+        System.out.println("commit2 ");
+    }
 }
