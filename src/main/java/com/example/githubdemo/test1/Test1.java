@@ -8,4 +8,8 @@ public class Test1 {
     public static void  addTest1ToBeCherryPicked(){
         System.out.println("cherry pick ");
     }
+
+    public static void  addTest2(){
+        System.out.println("commit1 ");
+    }
 }
